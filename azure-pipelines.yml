@@ -12,7 +12,7 @@ variables:
   azureSubscription: $(azure_sub)
   
   # Web app name
-  webAppName: 'java-spring-boot'
+  webAppName: 'java-spring-boot11'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
